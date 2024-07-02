@@ -18,5 +18,13 @@ userId.toFixed()
 let isUserLoggedIn:boolean = false;
 
 
+// any
 
+let myVar;
+
+function hero() {
+    return "ajlal";
+}
+
+myVar = hero()
 export {}
