@@ -9,7 +9,9 @@ console.log(greetings);
 
 // number
 
-let userId:number = 4568;
+let userId = 4568;
+userId.toFixed()
+// userId = "ajlal" // error type interface 
 
 // boolean
 
